@@ -6,4 +6,7 @@ FastAPI has two components:
 ### (1) Starlette:
 Starlette manages how your API receives requests and sends back responses.
 ### (2) Pydantic:
-It is data validation library. It is used to check if the data coming into your API is correct and in the right format.
+It is data validation library. It is used to check if the data coming into your API is correct and in the right format.\
+The core philosophy of FAST-API is:
+**Fast to Run, Fast to Code**
+### FastAPI is designed for building fast, robust, and developer-friendly APIs with automatic validation and documentation.

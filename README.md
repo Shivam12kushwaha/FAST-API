@@ -10,3 +10,4 @@ It is data validation library. It is used to check if the data coming into your 
 The core philosophy of FAST-API is:
 **Fast to Run, Fast to Code**
 ### FastAPI is designed for building fast, robust, and developer-friendly APIs with automatic validation and documentation.
+
